@@ -1,5 +1,5 @@
 ---
-title: "Plakat_Nießen_Leblanc"
+title: "Poster_Nießen_Leblanc"
 author: "Nießen und Leblanc"
 date: "12 Juni 2019"
 output: html_document
